@@ -1,8 +1,0 @@
-{
-  "name": "Smart Shift",
-  "description": "Eine P2P Lade-Community App für München. Finden Sie private Wallboxen, reservieren Sie Slots und verwalten Sie Ihr E-Auto.",
-  "requestFramePermissions": [
-    "camera",
-    "geolocation"
-  ]
-}
