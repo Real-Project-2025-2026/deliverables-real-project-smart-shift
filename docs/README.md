@@ -2,17 +2,22 @@ This folder contains all project documentation created during the Smart Shift re
 
 ## Project Documentation Overview
 
-### Interviews – Demand Side
-- Bernhard_Interview 1–3.pdf (Interview Round 1 – Demand)
-- Bernhard_Interview_Nachfrageseite 1–4.pdf (Interview Round 2 – Demand)
-- Valentin_Interview 1–3.pdf (Interview Round 1 – Demand)
-- Valentin_Interview_Nachfrageseite 1–4.pdf (Interview Round 2 – Demand)
-- Hannes_Interview_Nachfrageseite 1–3.pdf (Interview Round 2 – Demand)
+### Interview - Guideline
+- Interview Guideline_Round 1 english/deutsch (Authors: all members)
+- Interview_Guideline2 (Authors: Valentin, Bernhard, Hannes, Martin)
 
-### Interviews – Supply Side
+### Interviews – Round 1
+- Bernhard_Interview 1–3.pdf
+- Valentin_Interview 1–3.pdf
+- Lamija_Interviews.pdf
+
+### Interviews – Round 2
+- Bernhard_Interview_Nachfrageseite 1–4.pdf
 - Bernhard_Interview_Anbieterseite 1–4.pdf
 - Valentin_Interview_Anbieterseite 1–4.pdf
+- Valentin_Interview_Nachfrageseite 1–4.pdf
 - Hannes_Interview_Anbieterseite 1–4.pdf
+- Hannes_Interview_Nachfrageseite 1–3.pdf
 
 ### Analysis & Concept
 - Interviewauswertung_Anbieterseite.pdf (Authors: Valentin, Bernhard)
@@ -24,3 +29,4 @@ This folder contains all project documentation created during the Smart Shift re
 - Targetgroups.pdf (Authors: Valentin, Bernhard)
 - Ideas für problems.pdf (Authors:Lamija, Valentin, Bernhard)
 - Legal Aspects.pdf (Authors: Valentin, Bernhard)
+- Data Wallbox E vehicles (Authors: Valentin, Bernhard)
