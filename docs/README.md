@@ -28,17 +28,6 @@ SmartShift acts purely as an **intermediary platform**:
 
 ---
 
-## 🎓 Academic Context
-
-This project was developed as part of a university course and focuses on:
-
-- Business model design  
-- Legal and tax considerations  
-- Platform economics  
-- Scalability without asset ownership  
-
----
-
 ## 📁 Repository Contents
 
 This folder contains all documentation and deliverables created during the **SmartShift Real Project**.
