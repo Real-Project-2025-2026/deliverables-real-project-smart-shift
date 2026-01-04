@@ -1,5 +1,12 @@
 This folder contains all project documentation created during the Smart Shift real project.
 
+# Group Members
+Valentin Maresch	FK10	33138722
+Bernhard Raab	FK10	63129421
+Lamija Fatic	FK07	51324125
+Martin Doan	FK10	47505621
+Hannes Hertel 	FK10	16373822 
+
 ## Project Documentation Overview
 
 ### Interview - Guideline
