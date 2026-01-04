@@ -1,26 +1,47 @@
-🚗⚡ Project: SmartShift – Private EV Charging Sharing Platform
+# 🚗⚡ SmartShift  
+### Private EV Charging Sharing Platform
 
-SmartShift is a digital platform that enables private individuals to share their existing EV charging infrastructure in a simple and legally low-risk way.
+SmartShift is a digital platform that enables private individuals to share their existing EV charging infrastructure in a **simple and legally low-risk way**.
 
-The core idea is to transform private parking spaces with wallboxes into locally available charging points. Hosts do not operate a commercial charging business: electricity is passed on 1:1 as a cost component, while hosts generate income solely through a time-based parking fee. This keeps participation easy and compliant with private rental regulations.
+---
 
-SmartShift acts purely as an intermediary platform:
+## 💡 Concept
 
-No ownership or operation of hardware
+The core idea is to transform **private parking spaces with wallboxes** into **locally available charging points**.
 
-Automated booking, billing, and commission handling
+- Hosts **do not operate a commercial charging business**
+- Electricity is passed on **1:1 as a cost component**
+- Hosts generate income solely through a **time-based parking fee**
 
-Transparent pricing and certified energy measurement (MID meter)
+This approach keeps participation easy and compliant with private rental regulations.
 
-The project was developed as part of a university course and focuses on:
+---
 
-Business model design
+## 🔗 Platform Role
 
-Legal and tax considerations
+SmartShift acts purely as an **intermediary platform**:
 
-Platform economics
+- No ownership or operation of hardware  
+- Automated booking, billing, and commission handling  
+- Transparent pricing  
+- Certified energy measurement (MID meter)
 
-Scalability without asset ownership
+---
+
+## 🎓 Academic Context
+
+This project was developed as part of a university course and focuses on:
+
+- Business model design  
+- Legal and tax considerations  
+- Platform economics  
+- Scalability without asset ownership  
+
+---
+
+## 📁 Repository Contents
+
+This folder contains all documentation and deliverables created during the **SmartShift Real Project**.
 
 
 This folder contains all project documentation created during the Smart Shift real project.
