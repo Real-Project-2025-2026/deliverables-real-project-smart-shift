@@ -77,6 +77,6 @@ The folder **docs** contains all documentation and deliverables created during t
 - Expose zur Marketingstrategie Hannes Hertel.pdf (Author: Hannes)
 - Marketingplan Hannes Hertel.xlsx (Author: Hannes)
 - Problemstellung Ladeinfrastruktur München Hannes Hertel.pdf (Author: Hannes)
-- Interviewauswertung_Anbieterseite.pdf (Author: Hannes)
-- Interviewauswertung_Nachfrageseite.pdf (Author: Hannes)
+- Interview Auswertung Anbieter Hannes Hertel.pdf (Author: Hannes)
+- Interview Auswertungen Nachfrager Hannes Hertel.pdf (Author: Hannes)
 - Roadmap 2026 Hannes Hertel.pdf (Author: Hannes)
