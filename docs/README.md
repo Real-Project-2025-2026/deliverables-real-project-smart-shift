@@ -38,7 +38,7 @@ SmartShift acts purely as an **intermediary platform**:
 
 ---
 
-## 📁 Repository Contents
+# 📁 Repository Contents
 
 The folder **docs** contains all documentation and deliverables created during the **SmartShift Real Project**.
 
