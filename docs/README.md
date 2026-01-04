@@ -1,5 +1,5 @@
 # 🚗⚡ SmartShift
-- README.md by Bernhard Raab, Valentin Maresch
+- README.md by Bernhard Raab, Valentin Maresch, Hannes Hertel
 # Group Members
 - Valentin Maresch	FK10	33138722
 - Bernhard Raab	FK10	63129421
