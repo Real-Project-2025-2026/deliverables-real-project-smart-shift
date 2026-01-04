@@ -4,7 +4,9 @@
 - Bernhard Raab	FK10	63129421
 - Lamija Fatic	FK07	51324125
 - Martin Doan	FK10	47505621
-- Hannes Hertel 	FK10	16373822 
+- Hannes Hertel 	FK10	16373822
+
+---
 
 ### Private EV Charging Sharing Platform
 
