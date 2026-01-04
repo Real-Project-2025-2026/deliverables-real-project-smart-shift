@@ -1,4 +1,11 @@
-# 🚗⚡ SmartShift  
+# 🚗⚡ SmartShift
+# Group Members
+- Valentin Maresch	FK10	33138722
+- Bernhard Raab	FK10	63129421
+- Lamija Fatic	FK07	51324125
+- Martin Doan	FK10	47505621
+- Hannes Hertel 	FK10	16373822 
+
 ### Private EV Charging Sharing Platform
 
 SmartShift is a digital platform that enables private individuals to share their existing EV charging infrastructure in a **simple and legally low-risk way**.
@@ -30,15 +37,7 @@ SmartShift acts purely as an **intermediary platform**:
 
 ## 📁 Repository Contents
 
-This folder contains all documentation and deliverables created during the **SmartShift Real Project**.
-
-
-# Group Members
-- Valentin Maresch	FK10	33138722
-- Bernhard Raab	FK10	63129421
-- Lamija Fatic	FK07	51324125
-- Martin Doan	FK10	47505621
-- Hannes Hertel 	FK10	16373822 
+The folder **docs** contains all documentation and deliverables created during the **SmartShift Real Project**.
 
 ## Project Documentation Overview
 
