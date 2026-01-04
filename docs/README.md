@@ -19,5 +19,6 @@ This folder contains all project documentation created during the Smart Shift re
 - Business Concept in Detail.pdf (Authors: Valentin, Bernhard)
 - Business Concept, Pricing.xlsx (Authors: Valentin, Bernhard)
 - Business_Canvas.pdf (Authors: Valentin, Bernhard, Hannes – Marketing & Profit/Loss contribution)
-
-
+- Targetgroups.pdf (Authors: Valentin, Bernhard)
+- Ideas für problems.pdf (Authors:Lamija, Valentin, Bernhard)
+- Legal Aspects.pdf (Authors: Valentin, Bernhard)
