@@ -1,4 +1,5 @@
-Project documentation folder.
+This folder contains all project documentation created during the Smart Shift real project.
+
 ## Project Documentation Overview
 
 ### Interviews – Demand Side
@@ -12,8 +13,11 @@ Project documentation folder.
 - Valentin_Interview_Anbieterseite 1–4.pdf
 
 ### Analysis & Concept
-- Interviewauswertung_Anbieterseite.pdf
-- Interviewauswertung_Nachfrageseite.pdf
-- Competitor Analysis.pdf
-- Business Concept in Detail.pdf
-- Business_Canvas.pdf
+- Interviewauswertung_Anbieterseite.pdf (Authors: Valentin, Bernhard)
+- Interviewauswertung_Nachfrageseite.pdf (Authors: Valentin, Bernhard)
+- Competitor Analysis.pdf (Authors: Valentin, Bernhard)
+- Business Concept in Detail.pdf (Authors: Valentin, Bernhard)
+- Business Concept, Pricing.xlsx (Authors: Valentin, Bernhard)
+- Business_Canvas.pdf (Authors: Valentin, Bernhard, Hannes – Marketing & Profit/Loss contribution)
+
+
