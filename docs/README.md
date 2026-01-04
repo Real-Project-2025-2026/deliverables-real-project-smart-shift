@@ -7,10 +7,12 @@ This folder contains all project documentation created during the Smart Shift re
 - Bernhard_Interview_Nachfrageseite 1–4.pdf (Interview Round 2 – Demand)
 - Valentin_Interview 1–3.pdf (Interview Round 1 – Demand)
 - Valentin_Interview_Nachfrageseite 1–4.pdf (Interview Round 2 – Demand)
+- Hannes_Interview_Nachfrageseite 1–3.pdf (Interview Round 2 – Demand)
 
 ### Interviews – Supply Side
 - Bernhard_Interview_Anbieterseite 1–4.pdf
 - Valentin_Interview_Anbieterseite 1–4.pdf
+- Hannes_Interview_Anbieterseite 1–4.pdf
 
 ### Analysis & Concept
 - Interviewauswertung_Anbieterseite.pdf (Authors: Valentin, Bernhard)
