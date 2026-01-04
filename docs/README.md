@@ -33,8 +33,6 @@ SmartShift acts purely as an **intermediary platform**:
 This folder contains all documentation and deliverables created during the **SmartShift Real Project**.
 
 
-This folder contains all project documentation created during the Smart Shift real project.
-
 # Group Members
 - Valentin Maresch	FK10	33138722
 - Bernhard Raab	FK10	63129421
