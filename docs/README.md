@@ -1,3 +1,28 @@
+🚗⚡ Project: SmartShift – Private EV Charging Sharing Platform
+
+SmartShift is a digital platform that enables private individuals to share their existing EV charging infrastructure in a simple and legally low-risk way.
+
+The core idea is to transform private parking spaces with wallboxes into locally available charging points. Hosts do not operate a commercial charging business: electricity is passed on 1:1 as a cost component, while hosts generate income solely through a time-based parking fee. This keeps participation easy and compliant with private rental regulations.
+
+SmartShift acts purely as an intermediary platform:
+
+No ownership or operation of hardware
+
+Automated booking, billing, and commission handling
+
+Transparent pricing and certified energy measurement (MID meter)
+
+The project was developed as part of a university course and focuses on:
+
+Business model design
+
+Legal and tax considerations
+
+Platform economics
+
+Scalability without asset ownership
+
+
 This folder contains all project documentation created during the Smart Shift real project.
 
 # Group Members
