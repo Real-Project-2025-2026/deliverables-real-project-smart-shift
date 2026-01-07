@@ -36,7 +36,7 @@ This approach keeps participation easy and compliant with private rental regulat
 
 SmartShift acts purely as an **intermediary platform**:
 
--❌ No ownership or operation of charging hardware  
+- ❌ No ownership or operation of charging hardware  
 - 📅 Automated booking & availability management  
 - 💳 Integrated billing and commission handling  
 - 💰 Transparent pricing structure  
