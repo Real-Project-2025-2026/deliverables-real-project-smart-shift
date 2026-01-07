@@ -1,7 +1,6 @@
 <p align="center">
   <img src="smartshift_logo.png" alt="SmartShift Logo" width="220">
 </p>
-
 # 🚗⚡ SmartShift
 - README.md by Bernhard Raab, Valentin Maresch, Hannes Hertel
 
