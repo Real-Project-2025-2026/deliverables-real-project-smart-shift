@@ -1,7 +1,7 @@
 # 🚗⚡ SmartShift
 - README.md by Bernhard Raab, Valentin Maresch, Hannes Hertel
 
-# 👥 Group Members
+## 👥 Group Members
 | Name | Faculty | Student ID |
 |------|--------|------------|
 | Valentin Maresch | FK10 | 33138722 |
@@ -12,10 +12,12 @@
 
 ---
 
-### 📌 Private EV Charging Sharing Platform
+## 📌 Project Overview
 
-SmartShift is a digital platform that enables private individuals to share their existing EV charging infrastructure in a **simple and legally low-risk way**.
+**SmartShift** is a digital platform that enables private individuals to share their existing EV charging infrastructure in a **simple, transparent, and legally low-risk way**.
+
 The platform activates unused private wallboxes and turns them into **locally available EV charging points**, without requiring hosts to operate a commercial charging business.
+
 ---
 
 ## 💡 Concept
@@ -42,7 +44,7 @@ SmartShift acts purely as an **intermediary platform**:
 
 ---
 
-# 📁 Repository Contents
+## 📁 Repository Contents
 
 The folder **docs** contains all documentation and deliverables created during the **SmartShift Real Project**.
 
