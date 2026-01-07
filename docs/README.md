@@ -1,8 +1,12 @@
 <p align="center">
   <img src="smartshift_logo.png" alt="SmartShift Logo" width="220">
 </p>
-# 🚗⚡ SmartShift
-- README.md by Bernhard Raab, Valentin Maresch, Hannes Hertel
+
+<h1 align="center">🚗⚡ SmartShift</h1>
+<p align="center"><i>Private EV Charging Sharing Platform</i></p>
+<p align="center">README.md by Bernhard Raab · Valentin Maresch · Hannes Hertel</p>
+
+---
 
 ## 👥 Group Members
 | Name | Faculty | Student ID |
