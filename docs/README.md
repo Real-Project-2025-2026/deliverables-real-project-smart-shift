@@ -4,7 +4,7 @@
 
 <h1 align="center">🚗⚡ SmartShift</h1>
 <p align="center"><i>Private EV Charging Sharing Platform</i></p>
-<p align="center">README.md by Bernhard Raab · Valentin Maresch · Hannes Hertel</p>
+<p align="center">README.md by Bernhard Raab · Valentin Maresch · contribution from  Hannes Hertel</p>
 
 ---
 
