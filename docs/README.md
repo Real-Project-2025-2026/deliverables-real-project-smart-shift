@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/smartshift_logo.png" alt="SmartShift Logo" width="220">
+  <img src="smartshift_logo.png" alt="SmartShift Logo" width="220">
 </p>
 
 # 🚗⚡ SmartShift
