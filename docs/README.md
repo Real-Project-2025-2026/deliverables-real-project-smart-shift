@@ -81,9 +81,9 @@ The folder **docs** contains all documentation and deliverables created during t
 - Hannes_Interview_Nachfrageseite 1–3.pdf
 
 ### 📊 Analysis & Concept
--App Development:
-    - Product Strategy                (Authors: Lamija, Martin)
-    - UX/UI Design                    (Authors: Lamija, Martin)
+- App Development:
+- Product Strategy                (Authors: Lamija, Martin)
+- UX/UI Design                    (Authors: Lamija, Martin)
 - Architecture & Tech Stack       (Authors: Lamija, Martin)
 - Development                     (Authors: Martin)
 - Deployment                      (Authors: Martin)
