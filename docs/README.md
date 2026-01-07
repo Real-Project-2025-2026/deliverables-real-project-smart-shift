@@ -1,18 +1,21 @@
 # 🚗⚡ SmartShift
 - README.md by Bernhard Raab, Valentin Maresch, Hannes Hertel
-# Group Members
-- Valentin Maresch	FK10	33138722
-- Bernhard Raab	FK10	63129421
-- Lamija Fatic	FK07	51324125
-- Martin Doan	FK10	47505621
-- Hannes Hertel 	FK10	16373822
+
+# 👥 Group Members
+| Name | Faculty | Student ID |
+|------|--------|------------|
+| Valentin Maresch | FK10 | 33138722 |
+| Bernhard Raab | FK10 | 63129421 |
+| Lamija Fatic | FK07 | 51324125 |
+| Martin Doan | FK10 | 47505621 |
+| Hannes Hertel | FK10 | 16373822 |
 
 ---
 
-### Private EV Charging Sharing Platform
+### 📌 Private EV Charging Sharing Platform
 
 SmartShift is a digital platform that enables private individuals to share their existing EV charging infrastructure in a **simple and legally low-risk way**.
-
+The platform activates unused private wallboxes and turns them into **locally available EV charging points**, without requiring hosts to operate a commercial charging business.
 ---
 
 ## 💡 Concept
@@ -31,10 +34,11 @@ This approach keeps participation easy and compliant with private rental regulat
 
 SmartShift acts purely as an **intermediary platform**:
 
-- No ownership or operation of hardware  
-- Automated booking, billing, and commission handling  
-- Transparent pricing  
-- Certified energy measurement (MID meter)
+-❌ No ownership or operation of charging hardware  
+- 📅 Automated booking & availability management  
+- 💳 Integrated billing and commission handling  
+- 💰 Transparent pricing structure  
+- 📏 Certified energy measurement via MID-compliant meters
 
 ---
 
@@ -44,25 +48,28 @@ The folder **docs** contains all documentation and deliverables created during t
 
 ## Project Documentation Overview
 
-### Interview - Guideline
+### 🗣 Interview - Guideline
 - Interview Guideline_Round 1 english/deutsch (Authors: all members)
 - Interview_Guideline2 (Authors: Valentin, Bernhard, Hannes, Martin)
 
-### Interviews – Round 1
+### 🧾 Interviews – Round 1
 - Bernhard_Interview 1–3.pdf
 - Valentin_Interview 1–3.pdf
 - Hannes_Interview 1-2.pdf
 - Lamija_Interviews.pdf
 
-### Interviews – Round 2
-- Bernhard_Interview_Nachfrageseite 1–4.pdf
+### 🧾 Interviews – Round 2
+**Provider Side**
 - Bernhard_Interview_Anbieterseite 1–4.pdf
 - Valentin_Interview_Anbieterseite 1–4.pdf
-- Valentin_Interview_Nachfrageseite 1–4.pdf
 - Hannes_Interview_Anbieterseite 1–4.pdf
+
+**Demand Side**
+- Valentin_Interview_Nachfrageseite 1–4.pdf
+- Bernhard_Interview_Nachfrageseite 1–4.pdf
 - Hannes_Interview_Nachfrageseite 1–3.pdf
 
-### Analysis & Concept
+### 📊 Analysis & Concept
 - Interviewauswertung_Anbieterseite.pdf (Authors: Valentin, Bernhard)
 - Interviewauswertung_Nachfrageseite.pdf (Authors: Valentin, Bernhard)
 - Competitor Analysis.pdf (Authors: Valentin, Bernhard)
