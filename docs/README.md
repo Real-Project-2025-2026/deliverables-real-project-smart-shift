@@ -80,3 +80,4 @@ The folder **docs** contains all documentation and deliverables created during t
 - Interview Auswertung Anbieter Hannes Hertel.pdf (Author: Hannes)
 - Interview Auswertungen Nachfrager Hannes Hertel.pdf (Author: Hannes)
 - Roadmap 2026 Hannes Hertel.pdf (Author: Hannes)
+- Team Canvas 1.0.pdf (Authors: Valentin, Bernhard)
